@@ -1,0 +1,16 @@
+from turtle import *
+speed(1)
+pensize(3)
+pencolor("red")
+forward(200)
+right(90)
+pencolor('green')
+forward(100)
+right(90)
+pencolor("red")
+forward(200)
+right(90)
+pencolor('green')
+forward(100)
+
+done()
